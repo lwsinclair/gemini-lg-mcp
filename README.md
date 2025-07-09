@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/albinjal-gemini-lg-mcp-badge.png)](https://mseep.ai/app/albinjal-gemini-lg-mcp)
+
 # Gemini LangGraph Research MCP Server
 
 🔬 **AI-powered research assistant** that performs comprehensive web research using Google's Gemini AI models, Google Search and LangGraph.
